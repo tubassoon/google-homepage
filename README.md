@@ -1,0 +1,3 @@
+My first project using html and css. I'm following The Odin Project's plan to become a web designer. The project is to learn how to create Google's homepage with html and css. I hope to gain comfort in these two areas especially positioning and working with html and css to create a webpage and how to work between them. I am also hoping to continue with making navigation through the command line more second nature.
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
